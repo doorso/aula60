@@ -1,0 +1,9 @@
+body{
+ text-align: center;   
+}
+.profile{
+    border-radius: 50;
+    font-family: 'cinzel decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
